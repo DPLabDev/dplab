@@ -1,0 +1,86 @@
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    position: relative;
+    width: 100%;
+    height: 20px;
+    font-size: 20px;
+    text-align: center;
+    top: 0%;
+    margin-top: 15px;
+    color: #fff;
+}
+
+#maincontent{
+  color: #2C3E50
+}
+
+
+section.portfolio {
+  background: #E4CC37;
+  color: #A89C38
+}
+
+
+
+section.success {
+  background: #8FC93A;
+  color: #5A5C3B
+}
+
+section.success a.btn.btn-lg.btn-outline.active, a.btn.btn-lg.btn-outline:active, a.btn.btn-lg.btn-outline:focus, a.btn.btn-lg.btn-outline:hover {
+    color: #8FC93A;
+    background: #5A5C3B;
+    border: 2px solid #5A5C3B;
+}
+
+section.contact {
+  background: #E18335;
+  color: #F5D9C2
+}
+
+section.contact button.btn.btn-primary.btn-outline.active, button.btn.btn-primary.btn-outline:active, button.btn.btn-primary.btn-outline:focus, button.btn.btn-primary.btn-outline:hover {
+    color: #E18335;
+    background: #F5D9C2;
+    border: 2px solid #F5D9C2;
+}
+
+list-inline a.btn-social.btn-outline.active, a.btn-social.btn-outline:active, a.btn-social.btn-outline:hover    {
+  color: #2C3E50;
+  background: #fff;
+  border: 2px solid #fff;
+}
+
+
+.navbar-toggle {
+  border: 2px solid transparent
+}
+
+.form-control {
+  color: #F5D9C2
+}
+
+.form-control:focus {
+border-color: #fff
+color: #fff
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #F5D9C2 !important;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color: #F5D9C2 !important;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color: #F5D9C2 !important;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: #F5D9C2 !important;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color: #F5D9C2 !important;
+}
+
+::placeholder { /* Most modern browsers support this now. */
+   color: #F5D9C2 !important;
+}

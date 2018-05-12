@@ -1,0 +1,49 @@
+/*!
+ *  Font Awesome 4.0.1
+ *  the iconic font designed for Bootstrap
+ *  ------------------------------------------------------------------------------
+ *  The full suite of pictographic icons, examples, and documentation can be
+ *  found at http://fontawesome.io.  Stay up to date on Twitter at
+ *  http://twitter.com/fontawesome.
+ *
+ *  License
+ *  ------------------------------------------------------------------------------
+ *  - The Font Awesome font is licensed under SIL OFL 1.1 -
+ *    http://scripts.sil.org/OFL
+ *  - Font Awesome CSS, LESS, and SASS files are licensed under MIT License -
+ *    http://opensource.org/licenses/mit-license.html
+ *  - Font Awesome documentation licensed under CC BY 3.0 -
+ *    http://creativecommons.org/licenses/by/3.0/
+ *  - Attribution is no longer required in Font Awesome 3.0, but much appreciated:
+ *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *
+ *  Author - Dave Gandy
+ *  ------------------------------------------------------------------------------
+ *  Email: dave@fontawesome.io
+ *  Twitter: http://twitter.com/davegandy
+ *  Work: Lead Product Designer @ Kyruus - http://kyruus.com
+ */
+
+@import "variables-custom";
+@import "path";
+@import "core";
+@import "larger";
+@import "bordered-pulled";
+@import "spinning";
+
+@fa-var-arrow-right: "\f061";
+.@{fa-css-prefix}-arrow-right:before { content: @fa-var-arrow-right; }
+
+@fa-var-play: "\f04b";
+@fa-var-pause: "\f04c";
+@fa-var-stop: "\f04d";
+@fa-var-step-forward: "\f051";
+@fa-var-step-backward: "\f048";
+@fa-var-calendar: "\f073";
+
+.@{fa-css-prefix}-step-backward:before { content: @fa-var-step-backward; }
+.@{fa-css-prefix}-play:before { content: @fa-var-play; }
+.@{fa-css-prefix}-pause:before { content: @fa-var-pause; }
+.@{fa-css-prefix}-stop:before { content: @fa-var-stop; }
+.@{fa-css-prefix}-step-forward:before { content: @fa-var-step-forward; }
+.@{fa-css-prefix}-calendar:before { content: @fa-var-calendar; }

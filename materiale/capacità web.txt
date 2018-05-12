@@ -1,0 +1,36 @@
+Design
+
+Logo Design
+Full Branding
+UI / UX Design
+Photo shop
+Illustrator
+Fireworks
+
+Front End Dev
+
+HTML5 / CSS
+SASS / LESS
+Bootstrap
+Wordpress
+Joomla
+B2Evolution
+
+Coding
+
+Javascript
+Typescript
+Jquery
+AngularJs
+ReactJs
+NodeJS
+
+
+Back End Dev
+
+.Net Web Forms
+.Net Windows Forms
+ASP
+C#
+PHP
+SQL

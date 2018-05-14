@@ -1,6 +1,6 @@
 # Getting Started
 
-This is my wbsite, feel free to use the code
+This is my website, feel free to use the code
 * Clone the repo: `git clone https://github.com/DPLabDev/dplab.git`
 * Fork the repo
 

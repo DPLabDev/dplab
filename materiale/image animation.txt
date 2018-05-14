@@ -1,8 +1,0 @@
-<script> 
-$(document).ready(function(){  
-        $("div").animate({top: '250px'});
-});
-</script>
-
-
-<div style="background:#98bf21;height:100px;width:100px;position:absolute;"></div>

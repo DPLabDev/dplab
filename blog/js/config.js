@@ -16,7 +16,7 @@ $(function() {
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/yourname', newWindow: false},
+      { name: 'Github', href: 'https://github.com/DPLAbDev', newWindow: false},
       { name: 'About'}
     ],
 
@@ -53,8 +53,8 @@ $(function() {
 
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
-      username: 'DPLAbDev',
-      repo: 'yourrepo'
+      username: 'DPLabDev',
+      repo: 'dplab'
     },
 
     // If Github mode is set, choose which Github branch to get files from.

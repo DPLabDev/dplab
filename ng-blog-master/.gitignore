@@ -1,9 +1,0 @@
-node_modules
-dist
-build
-*.iml
-.idea/
-src/blog
-src/blog2
-ng-blog.iml
-src/bower_components/

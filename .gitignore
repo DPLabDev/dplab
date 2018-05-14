@@ -23,4 +23,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Chache sass
-$.sass-cache/
+sass-cache/*

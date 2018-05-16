@@ -299,9 +299,9 @@ button.btn.btn-primary.btn-outline:active, button.btn.btn-primary.btn-outline:fo
   position: absolute;
   width: 100%;
   height: 20px;
-  font-size: 20px;
+  font-size: 80px;
   text-align: center;
-  margin-top: 15px;
+  margin-top: 115px;
   color: #fff;
 }
 /* line 276, ../scss/dpstyle.scss */

@@ -3,10 +3,12 @@ layout: default
 title: About
 ---
 
-Hello! This is my awesome about page! Check out some cool links:
+Hello! This is my awesome blog! It's about business analysis, programming and tech in general. I hope you like it.
 
-* [Smashing Magazine](https://www.smashingmagazine.com)
-* [TechCrunch](http://techcrunch.com/)
-* [Ars Technica](http://arstechnica.com/)
-* [Codoki](http://codoki.com/)
-* [Mozilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+I will write it in italian because I think we have too much English information about these themes and less in my native language, I think you will understand this reasoning.
+
+Feel free to translate the blog an use its contents.
+
+Enjoy.
+
+Stefano

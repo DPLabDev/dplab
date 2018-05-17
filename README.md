@@ -14,8 +14,11 @@ This site template was created by and is maintained by **[Stefano Di Piazza](htt
 
 * https://github.com/DPLabDev
 
-This site is based on the [Start Bootstrap](http://startbootstrap.com/template-overviews/freelancer/).
+This site is based on the following repos :
+* [startbootstrap-freelancer](https://github.com/blackrockdigital/startbootstrap-freelancer/)
+* [cms.js](https://github.com/cdmedia/cms.js)
+* [poole](https://github.com/poole/poole)
 
 ## Copyright and License
 
-Copyright 2018 DPLab Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2018 DPLab Code released under the [MIT](https://opensource.org/licenses/MIT) license.

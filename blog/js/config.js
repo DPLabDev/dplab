@@ -21,13 +21,13 @@ $(function() {
     ],
 
     // Posts folder name
-    postsFolder: 'posts',
+    postsFolder: 'blog/posts',
 
     // Homepage posts snippet length
     postSnippetLength: 120,
 
     // Pages folder name
-    pagesFolder: 'pages',
+    pagesFolder: 'blog/pages',
 
     // Order of sorting (true for newest to oldest)
     sortDateOrder: true,

@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/DPLabDev/dplab', newWindow: false},
-      { name: 'About this blog'}
+      { name: 'About'}
     ],
 
     // Posts folder name

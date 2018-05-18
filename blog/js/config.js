@@ -3,7 +3,7 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: 'dplab',
+    siteName: '[DP-Lab]',
 
     // Tagline for your site
     siteTagline: 'Dr. Stefano Di Piazza',
@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/DPLabDev/dplab', newWindow: false},
-      { name: 'About'}
+      { name: 'About this blog'}
     ],
 
     // Posts folder name

@@ -38,7 +38,7 @@ $(function() {
     // Page as Frontpage (static)
     pageAsFrontpage: '',
 
-    // Posts/Blog on different URL
+    // Posts/Blog on different URL location
     postsOnUrl: '',
 
     // Site fade speed

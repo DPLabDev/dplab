@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/DPLabDev/dplab', newWindow: false},
-      { name: 'About'}
+      { name: 'About this Blog'}
     ],
 
     // Posts folder name
@@ -38,7 +38,7 @@ $(function() {
     // Page as Frontpage (static)
     pageAsFrontpage: '',
 
-    // Posts/Blog on different URL
+    // Posts/Blog on different URL location
     postsOnUrl: '',
 
     // Site fade speed

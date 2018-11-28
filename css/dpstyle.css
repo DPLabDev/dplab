@@ -9,6 +9,7 @@ body {
 /* line 24, ../scss/dpstyle.scss */
 p {
   font-size: 20px;
+  text-align: justify;
 }
 /* line 26, ../scss/dpstyle.scss */
 p.small {

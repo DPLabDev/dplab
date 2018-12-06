@@ -3,7 +3,7 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: '[DP-Lab]',
+    siteName: '[SDP - Blog]',
 
     // Tagline for your site
     siteTagline: 'Dr. Stefano Di Piazza',
@@ -15,16 +15,28 @@ $(function() {
     siteAuthor: 'Stefano Di Piazza',
 
     // Navigation items
-    siteNavItems: [
-      { name: 'Github', href: 'https://github.com/DPLabDev/dplab', newWindow: false},
-      { name: 'About this Blog'}
+    siteNavItems: [{
+        name: 'Github',
+        href: 'https://github.com/DPLabDev/dplab',
+        newWindow: false
+      },
+      {
+        name: 'About',
+        href: '#/pages/about',
+        newWindow: false
+      },
+      {
+        name: 'Linkedin',
+        href: 'https://www.linkedin.com/in/dplab',
+        newWindow: false
+      }
     ],
 
     // Posts folder name
     postsFolder: 'blog/posts',
 
     // Homepage posts snippet length
-    postSnippetLength: 120,
+    postSnippetLength: 240,
 
     // Pages folder name
     pagesFolder: 'blog/pages',
@@ -51,7 +63,7 @@ $(function() {
     // to Github
     mode: 'Github',
 
-     // If Github mode is set, your Github username and repo name.
+    // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
       username: 'DPLabDev',
       repo: 'dplab'

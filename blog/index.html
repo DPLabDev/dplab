@@ -3,9 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>DPLab Blog</title>
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <title>Stefano Di Piazza - Blog</title>
+  <meta name="description" content="Blog">
+  <meta name="author" content="Dr. Stefano Di Piazza - Senior Business Analyst">
   <link rel="stylesheet" href="css/poole.min.css">
   <link rel="stylesheet" href="css/style.css">
   <!--[if lt IE 9]>
@@ -17,16 +17,41 @@
   <!-- Main View -->
   <div class="container content">
 
+    <!-- Header -->
     <header class="masthead">
       <h3 class="masthead-title">
-        <a href="#" class="cms_sitename" title="Home"></a>
-        <small class="cms_tagline"></small>
+        <a href="#" class="cms_sitename" title="Home">[SDP - Blog]</a>
+        <small class="cms_tagline">Retropensieri di un'analista e suoi derivati</small>
       </h3>
-      <nav class="cms_nav"></nav>
+
+      <!-- Navigation -->
+      <nav class="cms_nav">
+        <ul>
+            <li><a href="//linkedin.com/in/dplab/">Linkedin</a></li>
+            <li><a href="//github.com/DPLabDev/dplab" target="_blank">Github</a></li>
+            <li><a href="#/pages/about">About</a></li>
+        </ul>
+      </nav>
     </header>
 
+    <!-- CMS -->
     <div class="cms_main"></div>
 
+    <!-- Pagination -->
+    <div class="pagination">
+      {% if paginator.next_page %}
+        <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Indietro</a>
+      {% else %}
+        <span class="pagination-item older">Indietro</span>
+      {% endif %}
+      {% if paginator.previous_page %}
+        <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Avanti</a>
+      {% else %}
+        <span class="pagination-item newer">Avanti</span>
+      {% endif %}
+    </div>
+    
+    <!-- Footer -->
     <footer class="cms_footer">
       <small class="cms_footer_text"></small>
     </footer>

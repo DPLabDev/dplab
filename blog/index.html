@@ -39,18 +39,9 @@
 
     <!-- Pagination -->
     <div class="pagination">
-      {% if paginator.next_page %}
-        <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Indietro</a>
-      {% else %}
-        <span class="pagination-item older">Indietro</span>
-      {% endif %}
-      {% if paginator.previous_page %}
-        <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Avanti</a>
-      {% else %}
-        <span class="pagination-item newer">Avanti</span>
-      {% endif %}
+      
     </div>
-    
+
     <!-- Footer -->
     <footer class="cms_footer">
       <small class="cms_footer_text"></small>

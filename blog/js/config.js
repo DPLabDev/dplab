@@ -6,13 +6,13 @@ $(function() {
     siteName: '[SDP - Blog]',
 
     // Tagline for your site
-    siteTagline: 'Dr. Stefano Di Piazza',
+    siteTagline: 'Blog - Business Analyst',
 
     // Email address
     siteEmail: 'admin@dplab.it',
 
     // Name
-    siteAuthor: 'Stefano Di Piazza',
+    siteAuthor: 'Dr. Stefano Di Piazza',
 
     // Navigation items
     siteNavItems: [{

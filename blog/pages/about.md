@@ -1,6 +1,5 @@
 ---
-layout: default
-title: About this Blog
+title: About
 ---
 
 Hello! This is my awesome blog! It's about business analysis, programming and tech in general. I hope you like it.

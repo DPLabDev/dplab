@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TagsList>
+  <Tag>
+     <Title>jquery</Title>
+     <Url>https://jquery.com/</Url>
+  </Tag>
+  <Tag>
+     <Title>Java programming</Title>
+     <Url>https://www.ibm.com/developerworks/java/tutorials/j-introtojava1/</Url>
+  </Tag>
+  <Tag>
+     <Title>Bootstrap</Title>
+     <Url>https://getbootstrap.com/</Url>
+  </Tag>
+  <Tag>
+     <Title>HTML5</Title>
+     <Url>https://dev.w3.org/html5/html-author/</Url>
+  </Tag>
+  <Tag>
+     <Title>CSS</Title>
+     <Url>https://www.w3.org/TR/CSS/#css</Url>
+  </Tag>
+  <Tag>
+     <Title>C# programming</Title>
+     <Url>https://docs.microsoft.com/it-it/dotnet/csharp/language-reference/language-specification/introduction</Url>
+  </Tag>
+  <Tag>
+     <Title>Javascript</Title>
+     <Url>https://javascript.info/</Url>
+  </Tag>
+  <Tag>
+     <Title>SQL</Title>
+     <Url>https://docs.microsoft.com/en-us/sql/t-sql/queries/queries?view=sql-server-2017</Url>
+  </Tag>
+  <Tag>
+     <Title>IIBA</Title>
+     <Url>https://www.iiba.org/</Url>
+</Tag>
+<Tag>
+     <Title>Angular</Title>
+     <Url>https://angular.io/</Url>
+</Tag>
+<Tag>
+     <Title>NodeJS</Title>
+     <Url>https://nodejs.org/en/</Url>
+</Tag>
+<Tag>
+     <Title>Stackoverflow</Title>
+     <Url>https://stackoverflow.com/</Url>
+</Tag>
+<Tag>
+     <Title>Smashing Magazine</Title>
+     <Url>https://www.smashingmagazine.com/</Url>
+</Tag>
+<Tag>
+     <Title>Data Scientist</Title>
+     <Url>https://www.wired.it/lifestyle/design/2014/08/19/chi-e-il-data-scientist/?refresh_ce=</Url>
+</Tag>
+<Tag>
+     <Title>Github</Title>
+     <Url>https://github.com/</Url>
+</Tag>
+<Tag>
+     <Title>IIBA Italy Chapter</Title>
+     <Url>https://italy.iiba.org/</Url>
+</Tag>
+<Tag>
+     <Title>W3C</Title>
+     <Url>https://www.w3.org/</Url>
+</Tag>
+</TagsList>
